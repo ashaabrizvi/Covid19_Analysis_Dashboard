@@ -1,5 +1,5 @@
 # Covid19_Dashboard
 
-Check out it at -
+Have a look at it -
 
 https://covid-19-analysis--dashboard.herokuapp.com/
