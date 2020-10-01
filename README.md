@@ -2,4 +2,4 @@
 
 Have a look at it -
 
-https://covid-19-analysis--dashboard.herokuapp.com/
+https://covid19analysisplotly.herokuapp.com/
