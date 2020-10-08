@@ -1,5 +1,5 @@
 # Covid19_Dashboard
 
-Have a look at it -
+Have a look at the Kaggle Notebook
 
-https://covid19analysisplotly.herokuapp.com/
+https://www.kaggle.com/ashaabrizvi/covid-19-plotly-tutorial
